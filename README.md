@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</div>
+
 # Hi there, I'm Shivendu Kumar 👋
 
 <div align="center">
@@ -80,6 +84,20 @@ me.say_hi()
 - 📉 Achieved **2.8 dB reduction** in Overall Sound Pressure Level (OASPL)
 - 🌊 Used Scale-Adaptive Simulation (SAS) + Ffowcs Williams-Hawkings acoustic analogy
 - 🔧 **Tech Stack**: ANSYS Fluent, SpaceClaim, ANSYS Meshing, CFD Post
+
+---
+
+### 🏥 Health Atlas - Healthcare Accessibility Platform
+**[View Project →](https://github.com/Rupali2507/Health_Atlas.git)**
+
+<img align="right" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+
+- 🏥 Collaborative healthcare platform for improving medical service accessibility
+- 🗺️ Interactive mapping system for healthcare facilities
+- 👥 Team collaboration project focused on real-world healthcare challenges
+- 🔧 **Tech Stack**: Web Development, Interactive Maps, Healthcare Analytics
+
+<br clear="right"/>
 
 ---
 
